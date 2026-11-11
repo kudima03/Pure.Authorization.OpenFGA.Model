@@ -88,9 +88,9 @@ Notes:
 
 ## Dependencies
 
-- [`Pure.Authorization.OpenFGA.Model.Abstractions`](https://github.com/kudima03/Pure.Authorization.OpenFGA.Model.Abstractions/tree/0.1.0-preview.0.1.0) `0.1.0-preview.0.1.0`: the interfaces this package implements
-- [`Pure.Primitives`](https://github.com/kudima03/Pure.Primitives/tree/3.7.0) `3.7.0`: the separator strings (`ColonString`, `HashString`, `AtString`, `AsteriskString`) and `String` used by the text forms
-- [`Pure.Primitives.String.Operations`](https://github.com/kudima03/Pure.Primitives.String.Operations/tree/1.7.0) `1.7.0`: `ConcatenatedString`, `ColonJoinedString` and `WhitespaceJoinedString`, which compose the text forms
+- [`Pure.Authorization.OpenFGA.Model.Abstractions`](https://github.com/kudima03/Pure.Authorization.OpenFGA.Model.Abstractions/tree/0.1.0-preview.0.2.0) `0.1.0-preview.0.2.0`: the interfaces this package implements
+- [`Pure.Primitives`](https://github.com/kudima03/Pure.Primitives/tree/3.8.0) `3.8.0`: the separator strings (`ColonString`, `HashString`, `AtString`, `AsteriskString`) and `String` used by the text forms
+- [`Pure.Primitives.String.Operations`](https://github.com/kudima03/Pure.Primitives.String.Operations/tree/1.8.0) `1.8.0`: `ConcatenatedString`, `ColonJoinedString` and `WhitespaceJoinedString`, which compose the text forms
 - [`Pure.Primitives.Abstractions`](https://github.com/kudima03/Pure.Primitives.Abstractions): base primitive interfaces, through the packages above; `IString` is used for all string-valued properties
 
 ## Target Frameworks
