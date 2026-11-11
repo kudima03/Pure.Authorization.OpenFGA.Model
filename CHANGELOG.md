@@ -6,6 +6,17 @@ Format follows [Keep a Changelog](https://keepachangelog.com/en/1.1.0/).
 
 ---
 
+## [0.1.0-preview.0.2.0] — 2026-11-11
+
+### Added
+
+- Target framework `net11.0`.
+
+### Changed
+
+- Update `Pure.Authorization.OpenFGA.Model.Abstractions` to `0.1.0-preview.0.2.0`,
+  `Pure.Primitives` to `3.8.0` and `Pure.Primitives.String.Operations` to `1.8.0`.
+
 ## [0.1.0-preview.0.1.0] — 2026-10-23
 
 ### Added
